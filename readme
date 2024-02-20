@@ -1,0 +1,10 @@
+Flood Prediction Machine Learning Model
+
+#Introduction: Natural disasters, such as floods, can have devastating impacts on communities, infrastructure, and the environment. 
+In recent years, the state of Kerala in India has experienced significant challenges related to flooding during the monsoon season. 
+Understanding and predicting these events are crucial for effective disaster management and preparedness. This project aims to contribute
+to the efforts in Kerala flood prediction using a comprehensive dataset that includes various meteorological parameters.
+
+#Problem Statement: Kerala, known for its monsoon rains, is prone to annual floods that cause significant damage to life and property. 
+The goal of this project is to develop a robust predictive model for Kerala flood prediction using historical meteorological data .The dataset 
+comprises information on rainfall in different months, annual rainfall, and a binary indicator for the occurrence of floods.
